@@ -1,6 +1,7 @@
 # FourInARow
 
 -An interactive two player 'connect-four' style game
+-View the live web app at:  https://tydillon.github.io/FourInARow/
 
 ## Sources
 
